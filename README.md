@@ -34,7 +34,7 @@ To train linear classifier, run:
 
 ## Results
 
-Here are the benchmarking results for CIFAR-10 and ResNet-18 on `RTX A5000`:
+Here are the benchmarking results for CIFAR-10 and ResNet-18 on a single `RTX A5000`:
 
 
 
