@@ -1,1 +1,1 @@
-python main.py --data_root /workspace/datasets  --arch resnet18 --learning_rate 0.06 --epochs 800 --weight_decay 5e-4 --momentum 0.9 --batch_size 512 --gpu 0 --exp_dir save
+python main.py --data_root Dataset_Path  --arch resnet18 --learning_rate 0.06 --epochs 800 --weight_decay 5e-4 --momentum 0.9 --batch_size 512 --gpu 0 --exp_dir Save_Path
