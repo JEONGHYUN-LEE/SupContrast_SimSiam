@@ -4,15 +4,6 @@ This repository provides a PyTorch implementation that modifies the **formulatio
 
 - It can prevent representation collapse **without the use of negative samples**, enabling stable training even with small batch sizes.
 - It demonstrates **higher test accuracy** compared to traditional supervised contrastive learning (based on ResNet-18 and CIFAR-10 benchmarks).
-
-
-
-
-## Contributors
-
-- Jeonghyun Lee (nomar0107@korea.ac.kr)
-- Sungmin Han (sungmin_15@korea.ac.kr)
-
 - Main frame of this repository is based on the work: 
     - [SimSiam-91.9-top1-acc-on-CIFAR10](https://github.com/Reza-Safdari/SimSiam-91.9-top1-acc-on-CIFAR10).
 
