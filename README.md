@@ -1,4 +1,4 @@
-# SupSiam
+# SupContrast_SimSiam
 
 This repository provides a PyTorch implementation that modifies the **formulation of [supervised contrastive learning](https://arxiv.org/abs/2004.11362) in a manner similar to [SimSiam](https://arxiv.org/abs/2011.10566)**. It offers the following advantages over original supervised contrastive learning:
 
